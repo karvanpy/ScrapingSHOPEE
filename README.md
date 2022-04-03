@@ -2,6 +2,7 @@
 Scrape all SHOPEE products information based on search keywords and total of items as much as items has available! \
 The information provide PRODUCT NAME | SHOP SELLER NAME | SOLD | STOCK | LOCATION | VERIFIED \
 
+![](https://github.com/karvanpy/ScrapingSHOPEE/blob/main/SHOPEEScraper%20-%20Overview.jpg?raw=true)
 
 ## How to use?
 
