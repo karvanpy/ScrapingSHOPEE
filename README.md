@@ -7,9 +7,11 @@ The information provide PRODUCT NAME | SHOP SELLER NAME | SOLD | STOCK | LOCATIO
 ## How to use?
 
 ### 1. Install libraries that we need 
-```pip install requests pandas```
-### If you familiar with environment like PipEnv, just enter with:
-```pipenv install```
+```pip install requests pandas```  
+- If you familiar with environment like PipEnv, just enter with:  
+```pipenv install```  
+- Enter the environment  
+```pipenv shell```  
 ### 2. Run the main file 'search_by_keywords.py'
 ```python3 search_by_keywords.py```
 
